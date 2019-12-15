@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!61 &313380820998779759
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2807584689367731261}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 1
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.102763414}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 0.32, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.7944732}
+  m_EdgeRadius: 0
+--- !u!1001 &6068900851212584890
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8273000696593337223, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_Name
+      value: sunsetGrassEdge
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337220, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8273000696593337227, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6545e9f782876784bb89a0c85cb093d5,
+        type: 3}
+    - target: {fileID: 554669928490945077, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: acb38a617ff4d9c4bb3e1a17b869a7d4, type: 2}
+    m_RemovedComponents:
+    - {fileID: 5791711692460848341, guid: 79afda8dda49f5c3d8deb516ac6a8046, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 79afda8dda49f5c3d8deb516ac6a8046, type: 3}
+--- !u!1 &2807584689367731261 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8273000696593337223, guid: 79afda8dda49f5c3d8deb516ac6a8046,
+    type: 3}
+  m_PrefabInstance: {fileID: 6068900851212584890}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Danger
+  - Enemy
+  - Ball
+  - Checkpoint
+  - SpawnTarget
+  - MAPTARGET
+  - Transition
+  - elevatorStopper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - Ground
+  - Foreground
+  - PlayerCantTouchMe
+  - EnemyCan'tTouchMe
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 405542021
+    locked: 0
+  - name: parallax3
+    uniqueID: 2080295279
+    locked: 0
+  - name: parallax2
+    uniqueID: 2103666935
+    locked: 0
+  - name: parallax1
+    uniqueID: 1769458733
+    locked: 0
+  - name: Tile background
+    uniqueID: 2150326301
+    locked: 0
+  - name: Poison
+    uniqueID: 695173377
+    locked: 0
+  - name: Sign
+    uniqueID: 2929259395
+    locked: 0
+  - name: Door
+    uniqueID: 1348058973
+    locked: 0
+  - name: Foreground
+    uniqueID: 2976780355
+    locked: 0
+  - name: Bouncies
+    uniqueID: 3450333331
+    locked: 0
+  - name: Enemy
+    uniqueID: 1427096067
+    locked: 0
+  - name: Enemy
+    uniqueID: 3118308217
+    locked: 0
+  - name: water
+    uniqueID: 2085099089
+    locked: 0
+  - name: Walls/ground
+    uniqueID: 2932148785
+    locked: 0
+  - name: Player
+    uniqueID: 2869112549
+    locked: 0
+  - name: Breakable
+    uniqueID: 3079225003
+    locked: 0
+  - name: Projectile
+    uniqueID: 1309050599
+    locked: 0
+  - name: lava
+    uniqueID: 2373559973
+    locked: 0
+  - name: HUD
+    uniqueID: 925918327
+    locked: 0
